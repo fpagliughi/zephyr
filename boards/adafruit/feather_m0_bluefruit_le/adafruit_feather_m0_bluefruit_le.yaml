@@ -1,0 +1,19 @@
+identifier: adafruit_feather_m0_bluefruit_le
+name: Adafruit Feather M0 Bluefruit LE
+type: mcu
+arch: arm
+ram: 32
+flash: 232
+toolchain:
+  - zephyr
+  - gnuarmemb
+supported:
+  - dma
+  - gpio
+  - hwinfo
+  - i2c
+  - spi
+  - uart
+  - usb_device
+  - watchdog
+vendor: adafruit

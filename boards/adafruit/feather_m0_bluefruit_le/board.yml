@@ -1,0 +1,6 @@
+board:
+  name: adafruit_feather_m0_bluefruit_le
+  full_name: Feather M0 Bluefruit LE
+  vendor: adafruit
+  socs:
+    - name: samd21g18a
